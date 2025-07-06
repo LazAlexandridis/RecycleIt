@@ -1,7 +1,7 @@
 # RecycleIt
 A simple Java-based Android application for tracking recycled materials. The app implements both admin and user roles, offering functionality such as recycling audits and a reward system that grants points to users upon successful verification of their recycling activity.
 
-#Requirements
+# Requirements
 - A server with MariaDB and a database named "users".
 - Android 8.
 
